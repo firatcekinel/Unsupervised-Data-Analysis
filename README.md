@@ -1,6 +1,6 @@
 # Unsupervised Data Analysis
 
-We investigate the causal inference for irony and sarcasm detection problem, which involves text analysis. Therefore we apply text based causal inference algorithm, CausalText by Pryzant et al. In addition to adapting CausalText to irony/sarcasm detection problem, we extend the use of confounders by using unsupervised data analysis.
+We investigate the causal inference for the irony and sarcasm detection problem, which involves text analysis. Therefore, we apply the text-based causal inference algorithm, CausalText by Pryzant et al.. In addition to adapting CausalText to the irony/sarcasm detection problem, we extend confounders by using unsupervised data analysis.
 
 While applying text based causal inference on irony/sarcasm detection problem, the categories or groupings within the text collection is considered as a confounder. In order to determine the subgroups, two different techniques, topic modeling and clustering, are used.
 
