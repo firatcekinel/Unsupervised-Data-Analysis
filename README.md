@@ -4,8 +4,8 @@ We investigate the causal inference for irony and sarcasm detection problem, whi
 
 While applying text based causal inference on irony/sarcasm detection problem, the categories or groupings within the text collection is considered as a confounder. In order to determine the subgroups, two different techniques, topic modeling and clustering, are used.
 
-"Inputs" directory contains the input files that we used in our study.
-"Figures" directory includes the clustering and topic modeling related figures.
+"inputs" directory contains the input files that we used in our study.
+"figures" directory includes the clustering and topic modeling related figures.
 
 In order to execute the causal-text algorithm, please refer to:
 https://github.com/rpryzant/causal-text
